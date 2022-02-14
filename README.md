@@ -1,8 +1,8 @@
 # GitGub Finder
 
-This project created for portfolio. It allows you to search for users from GitHub and to review you their profiles
+This project is created for portfolio. It allows you to search for users from GitHub and to review you their profiles
 
-The application has main two pages:
+The application has two main pages:
   
   - Home 
   - Profile
